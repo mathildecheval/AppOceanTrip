@@ -59,7 +59,6 @@ Logo and name of the "Ocean Trip" application on a marine background.
 **Accessibility:** Settings to adjust accessibility preferences.<br>
 **Logout:** Option to log out of the user account.<br>
 
-# Resources
-[LinkedIn CHEVAL Mathilde - UX/UI Designer](https://www.linkedin.com/in/mathilde-cheval/)
-[GitHub Project OceanTrip - Apple Foundation Program - Dev. mobile iOS](https://github.com/mathildecheval/AppOceanTrip)
+# Connect with Me
+[LinkedIn CHEVAL Mathilde - UX/UI Designer](https://www.linkedin.com/in/mathilde-cheval/)  
 [FIGMA Portfolio Projects](https://www.figma.com/proto/41b0HeOcnTgf5l9W4jjxrQ/Portfolio?page-id=0%3A1&type=design&node-id=1-2&viewport=455%2C332%2C0.39&t=qwSz3Q3tPfUjJJVw-1&scaling=scale-down-width&starting-point-node-id=1%3A2)
