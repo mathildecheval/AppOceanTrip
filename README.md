@@ -7,7 +7,7 @@
 * Resources
   
 # Introduction
-**Project:** This application seems to offer a user-friendly interface for exploring and participating in various maritime activities, while encouraging ecological commitment.
+**Project:** This application offers a user-friendly interface for exploring and participating in various maritime activities, while encouraging ecological commitment.
 
 **Context:** Intensive "iOS Mobile Development" training from the [Apple Foundation Program](https://www.apple.com/fr/newsroom/2024/06/apple-simplon-celebrate-five-years-of-training-for-aspiring-developers/) to create a native iOS application in Swift. The 1-month program includes modules on project management, UX Design, professional communication and coding. 
 
@@ -15,7 +15,7 @@
 
 **Tools used:** FIGMA, FIGJAM, XCode
 
-> Session theme - June July 2023: *Create and develop a native iOS Swift application on the theme of ocean preservation, dedicated to eco-tourism and the discovery of unusual, eco-responsible activities.*
+> Session theme - June July 2024: *Create and develop a native iOS Swift application on the theme of ocean preservation, dedicated to eco-tourism and the discovery of unusual, eco-responsible activities.*
 
 # Intervention and results
 * Roadmap
