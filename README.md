@@ -23,9 +23,9 @@
 * Definition
 * Ideation
 * Design of 16 screens
-* Prototyping [FIGMA](https://www.figma.com/proto/41b0HeOcnTgf5l9W4jjxrQ/Portfolio?page-id=0%3A1&type=design&node-id=1-2&viewport=455%2C332%2C0.39&t=qwSz3Q3tPfUjJJVw-1&scaling=scale-down-width&starting-point-node-id=1%3A2)
-* Swift development [GitHub](https://github.com/mathildecheval/AppOceanTrip)
-* Real-life situation [video](https://drive.google.com/file/d/17kxiTfZ16zgWg-TZ9AWTlfwBktwuebVS/view)
+* [FIGMA Prototyping "Apple Foundation Dev. mobile iOS" (UX/UI Design)](https://www.figma.com/proto/41b0HeOcnTgf5l9W4jjxrQ/Portfolio?page-id=0%3A1&type=design&node-id=1-2&viewport=455%2C332%2C0.39&t=qwSz3Q3tPfUjJJVw-1&scaling=scale-down-width&starting-point-node-id=1%3A2)
+* Swift development in XCode
+* [Video Real-life situation](https://drive.google.com/file/d/17kxiTfZ16zgWg-TZ9AWTlfwBktwuebVS/view)
 
 # Features
 The code contains a [**"Structure"**](AppOceanTrip/structure.swift) file and a [**"NavView"**](AppOceanTrip/NavView.swift) file that groups all the instances and components needed to optimize the call in the various code files on each page.
